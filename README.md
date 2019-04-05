@@ -11,4 +11,4 @@ Contains creative commons images from Wiki Commons.
 -Converted into layered GIMP file with Inkscape
 -"ncs-logo-test.xcf" is an example of how to cut out images for the logo background. 
 ```
-![Example Logo](https://github.com/NebulaCyberSolutions/LogoWork/blob/master/exports/ncs-logo-dragon.png)
+![Example Logo](https://github.com/NebulaCyberSolutions/ncslogowork/blob/master/exports/ncs-logo-dragon.png)
